@@ -10,4 +10,4 @@ A clean, responsive single-page landing page built with HTML5 and CSS3.
 Git & GitHub
 - Netlify (Hosting)
 ## Live Demo
-[View Live Site](YOUR-NETLIFY-URL-HERE)
+[View Live Site](https://artist-business-page.netlify.app/)
